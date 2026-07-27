@@ -219,4 +219,3 @@ Additional screenshots and supporting images are available in the [`assets`](./a
 
 ## Video Demonstration
 
-Add the project demonstration link here.
